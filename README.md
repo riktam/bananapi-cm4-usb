@@ -21,8 +21,9 @@ and reboot for the changes to be applied.
 
 The following carrier boards do not work without the fix:
 
-- [x] [Compute blade](https://computeblade.com/) 
-- [ ] [DeskPi Super6C](https://wiki.deskpi.com/super6c/)
+- [x] [Compute Blade](https://computeblade.com/) 
+- [x] [DeskPi Super6C](https://wiki.deskpi.com/super6c/)
+  - NOTE: Video output is on HDMI1. Network and M.2 NVME are working.
 - [X] [Waveshare CM4-IO-BASE-A](https://www.waveshare.com/wiki/CM4-IO-BASE-A)
 - [ ] [Compute Module 4 IO Board](https://www.raspberrypi.com/products/compute-module-4-io-board/)
 
